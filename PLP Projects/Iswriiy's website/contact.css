@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.header {
+  padding: 80px;
+  text-align: center;
+  background-image: url('contacts.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  color: #000000;
+  }
+
+.header 1 {
+   font-size: 70px;
+}   
+  
+ .topnav {
+  overflow:hidden;
+  background-color: #000000;
+}
+
+.topnav a {
+ float: left;
+ color: #0a0101;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 20px;
+}
+
+.topnav a:hover {
+ background-color: #0a0205;
+ color:black;
+}
+
+.topnav a.active {
+ background-color: #0b1750;
+ color:rgb(19, 6, 6);
+} 
+  body {
+	  
+	  background-image: url('contacts.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+	  
+	  
